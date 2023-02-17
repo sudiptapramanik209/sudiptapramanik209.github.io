@@ -1,0 +1,43 @@
+/* Add your profile image here */
+.Photo {
+  background-image: url("https://raw.githubusercontent.com/sudiptapramanik209/Images/main/WhatsApp%20Image%202023-02-16%20at%204.39.06%20PM.jpeg");
+}
+/* Projects Photo */
+.project1 {
+  background-image: url("https://raw.githubusercontent.com/sudiptapramanik209/Images/main/ayoa.png");
+  cursor: none;
+}
+.project2 {
+  background-image: url("https://raw.githubusercontent.com/sudiptapramanik209/Images/main/jcrew.png");
+  cursor: none;
+}
+.project3 {
+  background-image: url("https://raw.githubusercontent.com/sudiptapramanik209/Images/main/myntra.png");
+  cursor: none;
+}
+.project4 {
+  background-image: url("https://raw.githubusercontent.com/sudiptapramanik209/Images/main/gadgetRambo.png");
+  cursor: none;
+  filter: invert(0) !important;
+}
+.project5 {
+  background-image: url("");
+  cursor: none;
+}
+.project6 {
+  background-image: url("");
+  cursor: none;
+}
+/* Miscelaneous Activities photo */
+.misc1 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Miscellaneous+one");
+  cursor: none;
+}
+.misc2 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Miscellaneous+two");
+  cursor: none;
+}
+.misc3 {
+  background-image: url("https://via.placeholder.com/400x600.png?text=Miscellaneous+three");
+  cursor: none;
+}
